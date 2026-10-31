@@ -45,3 +45,17 @@ Recorded amount should not be interpreted as verified realized revenue or profit
 ## Author
 Ramya Jalluri  
 B.Tech – Artificial Intelligence & Data Science
+
+## Dashboard Visualizations
+
+### 1. Monthly Recorded Sales Amount
+![Monthly Recorded Sales](images/monthly_recorded_sales.png)
+
+### 2. Product Category Performance
+![Product Category Analysis](images/product_category_recorded_amount.png)
+
+### 3. Order Cancellation by Fulfilment
+![Cancellation Rate Analysis](images/cancellation_rate_by_fulfilment.png)
+
+### 4. Top 10 Cities by Recorded Amount
+![City-wise Analysis](images/top_10_cities_recorded_amount.png)
